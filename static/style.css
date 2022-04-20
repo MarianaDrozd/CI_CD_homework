@@ -1,6 +1,21 @@
+body {
+    background-color: moccasin;
+    text-align: center;
+}
 h1 {
     font-size: 100px;
     font-style: italic;
-    color: blue;
+    color: maroon;
     text-align: center;
+}
+h2 {
+    font-size: 80px;
+    font-style: oblique;
+    color: rebeccapurple;
+    text-align: center;
+}
+h3 {
+    font-size: 80px;
+    font-style: normal;
+    color: chocolate;
 }
